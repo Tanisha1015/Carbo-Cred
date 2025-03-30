@@ -88,7 +88,7 @@ Follow these steps to deploy the project on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/musk1n/webss
+git clone  https://github.com/Tanisha1015/Carbo-Cred.git
 ```
 
 
@@ -97,7 +97,7 @@ git clone https://github.com/musk1n/webss
 Navigate to the project directory and install required modules:
 
 ```bash
-cd webss
+cd Carbo-Cred
 npm install
 ```
 
