@@ -97,7 +97,7 @@ git clone  https://github.com/Tanisha1015/Carbo-Cred.git
 Navigate to the project directory and install required modules:
 
 ```bash
-cd Carbo-Cred
+cd EnergyChain/Carbo-Cred
 npm install
 ```
 
